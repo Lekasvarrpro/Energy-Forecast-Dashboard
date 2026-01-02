@@ -1,12 +1,3 @@
-# React + Vite
+A responsive and interactive React + Vite dashboard that visualizes real-time energy consumption data from multiple appliances. It provides day, month, and year forecasts using a CSV dataset, featuring a calendar heatmap, appliance-wise energy breakdown, and intuitive color-coded visuals. Built with Tailwind CSS, the dashboard offers a clean UI, smooth interactions, and real-time updates, making energy monitoring and analysis simple and accessible.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack: React, Vite, Tailwind CSS, Framer Motion, CSV data parsing
