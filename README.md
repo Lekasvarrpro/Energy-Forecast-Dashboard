@@ -48,7 +48,7 @@ The **Energy Forecast Dashboard** is an intuitive, data-driven tool designed to 
 
 ## 🔗 Live Demo
 
-[Click here to view the live dashboard](energy-forecast-dashboard.vercel.app)
+[Click here to view the live dashboard](https://energy-forecast-dashboard.vercel.app/)
 
 ---
 
